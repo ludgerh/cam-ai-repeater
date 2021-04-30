@@ -1,0 +1,15 @@
+/env/
+/wenv/
+/fifo/
+/__pycache__/
+/ffmpeg/
+/build/
+/icons/
+/.vs/
+/dist/
+*.py~
+*.md~
+*.bat~
+.gitignore~
+c_repeater.cfg
+
